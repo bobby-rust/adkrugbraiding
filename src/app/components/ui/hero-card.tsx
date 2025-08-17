@@ -1,9 +1,10 @@
+import Image from "next/image";
 
 export default function HeroCard() {
     return (
         <div className="w-full max-w-md mx-auto">
             <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl dark:bg-gray-950">
-                <img
+                <Image
                     src="/paisleyshawl_thumb.jpg"
                     alt="Product Image"
                     width={600}

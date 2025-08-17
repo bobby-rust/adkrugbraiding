@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import Link from "next/link"
-import { CircleCheckIcon, CircleHelpIcon, CircleIcon, Mail, Phone } from "lucide-react"
+import { CircleHelpIcon, CircleIcon, Mail, Phone } from "lucide-react"
 import Image from "next/image"
 import {
     NavigationMenu,

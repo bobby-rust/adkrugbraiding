@@ -1,5 +1,4 @@
 import { Button } from "@/components/ui/button";
-import HeroCard from "./components/ui/hero-card";
 
 export default function Home() {
   return (
@@ -25,7 +24,7 @@ export default function Home() {
           </div>
         </div>
         <div className="py-20">
-          <p className="paragraph">Helen Condon creates hand braided wool Adirondack rugs, baskets, wreaths and custom heirloom gifts. Built in 1863, her Parishville, NY studio functioned as a boarding house until 1923 when it was purchased by the Parishville Grange. It was then used as a meeting place and dance hall until 1963, attracting crowds from distant towns in horse-drawn wagons and sleighs for prestigious social events. After it had lain dormant for many years, Helen restored the old hall in 2001. "The Grange" is now an ideal setting for the creation of hand braided Adirondack rugs, baskets and gifts that become family heirlooms.</p>
+          <p className="paragraph">Helen Condon creates hand braided wool Adirondack rugs, baskets, wreaths and custom heirloom gifts. Built in 1863, her Parishville, NY studio functioned as a boarding house until 1923 when it was purchased by the Parishville Grange. It was then used as a meeting place and dance hall until 1963, attracting crowds from distant towns in horse-drawn wagons and sleighs for prestigious social events. After it had lain dormant for many years, Helen restored the old hall in 2001. &quot;The Grange&quot; is now an ideal setting for the creation of hand braided Adirondack rugs, baskets and gifts that become family heirlooms.</p>
         </div>
       </div>
     </div>
